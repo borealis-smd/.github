@@ -15,4 +15,4 @@ Nossa equipe é composta por 5 alunos do curso de gradução em Sistemas e Mídi
 - Letícia Rodrigues e
 - Matheus Pinheiro.
 
-  Sinta-se à vontade para contribuir de alguma forma com nosso projeto. Caso deseje entrar em contato, você pode fazê-lo por e-mail: equipeborealis@gmail.com. 
+Sinta-se à vontade para contribuir de alguma forma com nosso projeto. Caso deseje entrar em contato, você pode fazê-lo por e-mail: equipeborealis@gmail.com. 
